@@ -17,4 +17,3 @@ Skills: JS / HTML / CSS / SASS / Bootstrap / jQuery
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saddam0091)  
 
-![Profile views](https://gpvc.arturio.dev/saddam0091)  
