@@ -7,8 +7,7 @@ I am currently living in Dhaka, Bangladesh. I spend most of the time practicing 
 I love to work that challenges me to learn something new. To meet the challenges, I do research online, read blog posts, watch tutorials.
 This procedure helps me to go forward with the new techniques and technologies. And I am very passionate about Web Development.
 
-Skills: HTML / CSS / JavaScript / SASS / SCSS / Bootstrap / jQuery
-CMS(Theme / Template Customization): WordPress, Webflow
+Skills: HTML / CSS / JavaScript / SASS / SCSS / Bootstrap / jQuery / CMS(Theme / Template Customization): WordPress, Webflow
 
 
 
