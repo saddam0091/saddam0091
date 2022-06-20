@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Saddam Hossain
 #### Front End Developer
 
-I am currently living in Dhaka, Bangladesh. I spend most of the time practicing HTML, CSS, and JavaScript.
+I am currently living in Dhaka, Bangladesh. I spend most of the time practicing new web technologies to keep myself upgraded..
 
 I love to work that challenges me to learn something new. To meet the challenges, I do research online, read blog posts, watch tutorials.
 This procedure helps me to go forward with the new techniques and technologies. And I am very passionate about Web Development.
